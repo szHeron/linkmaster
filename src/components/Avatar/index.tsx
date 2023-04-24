@@ -5,7 +5,7 @@ export function Avatar(){
         <div className="flex flex-col items-center p-6">
             <Image
                 src="https://avatars.githubusercontent.com/u/84138510?v=4"
-                alt="Picture of the author"
+                alt="Picture of the user"
                 width={100}
                 height={100}
                 className="rounded-full"
